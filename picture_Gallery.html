@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+    <!--CSS-->
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing:border-box;
+        }
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            background: black;
+        }
+        img {
+            height: 150px;
+            width: 150px;
+        }
+        .box {
+            position: relative;
+            width: 200px;
+            height: 200px;
+            transform-style: preserve-3d;
+            animation: animateClockwise 20s linear infinite;
+        }
+        @keyframes animateClockwise {
+            0% {
+                transform: perspective(1000px) rotateY(0deg);
+            }
+            100% {
+                transform: perspective(1000px) rotateY(360deg);
+            }
+        }
+        @keyframes animateCounterclockwise {
+            0% {
+                transform: perspective(1000px) rotateY(0deg);
+            }
+            100% {
+                transform: perspective(1000px) rotateY(-360deg);
+            }
+        }
+        .box span {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            transform-origin: center;
+            transform-style: preserve-3d;
+            transform: rotateY(calc(var(--i)* 51deg)) translateZ(400px);
+        }
+        .box span img {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+        
+    </style>
+    <!--HTML MAIN BODY-->
+    <head>
+        <title>Zhaomei's Photo Gallery</title>
+    </head> 
+    <h1 style = "color: white;position: absolute;"><font size="+15">For my baby -- 520 </h1> 
+    <body style = "border: solid white 15px;">
+        <div class = "box" style = "margin-top: -28%; margin-right: -13%; animation: animateClockwise 16s linear infinite;">
+            <span style = "--i:1"> <img src = "imgsrc/image1.jpg"> </span>
+            <span style = "--i:3"> <img src = "imgsrc/image2.jpg"> </span>
+            <span style = "--i:5"> <img src = "imgsrc/image3.jpg"> </span>
+            <span style = "--i:7"> <img src = "imgsrc/image4.jpg"> </span>
+            <span style = "--i:9"> <img src = "imgsrc/image5.jpg"> </span>
+            <span style = "--i:11"> <img src = "imgsrc/image6.png"> </span>
+            <span style = "--i:13"> <img src = "imgsrc/image7.jpg"> </span>
+        </div>
+        <br>
+        <div class = "box" style = "margin-right: -15%; animation: animateCounterclockwise 16s linear infinite;">
+            <span style = "--i:2"> <img src = "imgsrc/image8.jpg"> </span>
+            <span style = "--i:4"> <img src = "imgsrc/image9.jpg"> </span>
+            <span style = "--i:6"> <img src = "imgsrc/image10.jpg"> </span>
+            <span style = "--i:8"> <img src = "imgsrc/image11.jpg"> </span>
+            <span style = "--i:10"> <img src = "imgsrc/image13.jpg"> </span>
+            <span style = "--i:12"> <img src = "imgsrc/image14.jpg"> </span>
+            <span style = "--i:14"> <img src = "imgsrc/image16.jpg"> </span>
+        </div>
+        <br>
+        <div class = "box" style = "margin-bottom: -28%; animation: animateClockwise 16s linear infinite;">
+            <span style = "--i:1"> <img src = "imgsrc/image17.jpg"> </span>
+            <span style = "--i:2"> <img src = "imgsrc/image18.jpg"> </span>
+            <span style = "--i:3"> <img src = "imgsrc/image19.jpg"> </span>
+            <span style = "--i:4"> <img src = "imgsrc/image20.jpg"> </span>
+            <span style = "--i:5"> <img src = "imgsrc/image21.jpg"> </span>
+            <span style = "--i:6"> <img src = "imgsrc/image22.jpg"> </span>
+            <span style = "--i:7"> <img src = "imgsrc/image23.jpg"> </span>
+        </div>
+    </body>
+</html>
