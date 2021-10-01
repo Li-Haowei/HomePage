@@ -1,0 +1,12 @@
+The user interface to the program is provided through mouse buttons and keyboard keys. Mouse and keyboard bindings have been implemented for you. For toggle status, check the control flags in the Sketch class.
+Left mouse button: places vertex points for a line. For every two clicks, a line is drawn.
+Right mouse button: places vertex points for a triangle. For every three clicks, a triangle is drawn.
+s / S: Toggles smooth interpolation of color on/off for mouse drawn lines and triangles. Status saved in doSmooth.
+a / A: Toggles anti-aliasing for mouse drawn lines and triangles. Status saved in doAA.
+m / M: Toggles texture-mapping for mouse drawn lines and triangles. Status saved in doTexture.
+r / R: Toggles random color assignment to new mouse drawn points. Status saved in random_color.
+c / C: Clears the current screen.
+t / T / DOWN / RIGHT: Runs the next test case.
+UP / LEFT: Run the previous test case.
+, / <: Decrease the number of steps for the line and triangle test cases.
+. / >: Increase the number of steps for the line and triangle test cases.
