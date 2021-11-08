@@ -12,5 +12,8 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200" height="200">
 	<br>
+	<img align="right"  style = "height:200px; width: 200px;" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+	<br>
 </div>
 <h3 align="center">The repositories below are some of the works and projects that I've done</h3>
+
