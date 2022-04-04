@@ -4,7 +4,7 @@
 <h3 align="center" > My name is Haowei Li😀</h3>
 <p align="center">
   <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50px;" 
-       src="https://www.uaspire.org/CMSPages/GetFile.aspx?guid=ef6cdd3e-5c25-4ff0-bee1-8006d922e850" >
+       src="Haowei-Li.png" >
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
