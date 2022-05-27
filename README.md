@@ -16,5 +16,5 @@
 	<br>
 </div>
 <h3 align="center">The repositories below are some of the works and projects that I've done</h3>
-<h3 align="center">If you want to know more about me: <a href = "https://dev-haowei.pantheonsite.io/">my personal website</a> </h3>
+<h3 align="center">If you want to know more about me: <a href = "https://dev-haowei.pantheonsite.io/">my personal website</a>  </h3>
 
