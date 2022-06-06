@@ -3,7 +3,7 @@
 
 <h3 align="center" > My name is Haowei Li😀</h3>
 <p align="center">
-  <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50px;" 
+  <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50%;" 
        src="Haowei-Li.png" />
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
