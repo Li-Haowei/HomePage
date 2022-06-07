@@ -4,11 +4,21 @@
 			<style>
 				@keyframes rotate {
 					0% {
-						transform: rotate(3deg);
+						transform: rotate(0deg);
 					}
 					100% {
-						transform: rotate(-3deg);
+						transform: rotate(0deg);
 					}
+				}
+				
+				@keyframes scale {
+					0% {
+						transform: scale(1.0);
+					}
+					100% {
+						transform: scale(0.9);
+					}
+				
 				}
 
 				@keyframes gradientBackground {
@@ -72,7 +82,7 @@
 						0 3px 0 #efefef,
 						0 4px 0 #efefef,
 						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
+					animation: scale ease-in-out 1s infinite alternate;
 				}
 
 				p {
