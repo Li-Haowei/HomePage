@@ -1,7 +1,7 @@
 <div align="center">
 	<br>
 	<a href="https://dev-haowei.pantheonsite.io/">
-		<img src="" width="800" height="400" alt="The Header">
+		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
 	<br>
 </div>
