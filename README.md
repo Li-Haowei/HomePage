@@ -5,9 +5,11 @@
 	</a>
 	<br>
 </div>
+<div align="center">
 <a href="https://dev-haowei.pantheonsite.io/">
-		<img src="header.svg" width="800" height="400" alt="The Header">
+		<img src="name.svg" width="800" height="400" alt="The Header">
 	</a>
+</div>
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
