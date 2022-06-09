@@ -4,7 +4,7 @@
 		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
 	<br>
-	<font size=6 align= "right">(animation programmed in svg format, since markdown file)</font>
+	<font size=6 align= "right">(animation programmed in svg format, since markdown file does not support CSS)</font>
 	
 </div>
 <div align="center">
