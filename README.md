@@ -5,12 +5,9 @@
 	</a>
 	<br>
 </div>
-<h1 align="center">Welcome to My Github 👋</h1>
-
-<h3 align="center" > My name is Haowei Li😀</h3>
-<p align="center">
-  <img   style = "height:200px; width: 200px;border: solid 2px; border-radius: 50%;" 
-       src="Haowei-Li.png" />
+<a href="https://dev-haowei.pantheonsite.io/">
+		<img src="header.svg" width="800" height="400" alt="The Header">
+	</a>
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
