@@ -4,7 +4,6 @@
 		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
 	<br>
-	<font size=6 align= "right">(animation programmed in svg format, since markdown file does not support CSS)</font>
 	
 </div>
 <div align="center">
@@ -12,6 +11,7 @@
 		<img src="name.svg" width="800" height="400" alt="The Header">
 	</a>
 </div>
+<font size=6 align= "right">(animation programmed in svg format, since markdown file does not support CSS)</font>
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
