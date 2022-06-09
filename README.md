@@ -1,16 +1,13 @@
 <div align="center">
-	<br>
 	<a href="https://dev-haowei.pantheonsite.io/">
 		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
 	<br>
-</div>
-<div align="center">
 <a href="https://dev-haowei.pantheonsite.io/">
 		<img src="name.svg" width="800" height="400" alt="The Header">
 	</a>
+	<p size='6' align= "right">(animation programmed in svg format, since markdown file does not support CSS)</p>
 </div>
-<p size='6' align= "right">(animation programmed in svg format, since markdown file does not support CSS)</p>
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
