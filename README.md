@@ -6,7 +6,7 @@
 <a href="https://dev-haowei.pantheonsite.io/">
 		<img src="name.svg" width="800" height="400" alt="The Header">
 	</a>
-	<p size='6' align= "right">(animation programmed in svg format, since markdown file does not support CSS)</p>
+	<p size='6'>(animation programmed in svg format, since markdown file does not support CSS)</p>
 </div>
 </p>
 <h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
