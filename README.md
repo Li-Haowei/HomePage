@@ -3,7 +3,7 @@
 	<a href="https://dev-haowei.pantheonsite.io/">
 		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
-	<p style="position: absolute; top: 0; right:0;">fully programmed in svg format</p>
+	<p style="position: absolute; top: 0px; right:0px;">fully programmed in svg format</p>
 	<br>
 </div>
 <div align="center">
