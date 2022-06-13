@@ -4,7 +4,7 @@
 	</a>
 	<br>
 <a href="https://dev-haowei.pantheonsite.io/">
-		<img src="name.svg" width="800" height="400" alt="The Header">
+		<img src="name.svg" width="800" height="400" alt="The Header" >
 	</a>
 	<p size='6'>(animation programmed in svg, since markdown file does not support CSS)</p>
 </div>
