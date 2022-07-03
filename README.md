@@ -9,7 +9,7 @@
 	<p size='6'>(animation programmed in svg, since markdown file does not support CSS)</p>
 </div>
 </p>
-<h3 align="center" > I am currently a Boston University Computer Science Student	🧑‍🎓</h3>
+<h3 align="center" > I am currently a BU CS Student, but I will be graduated 2023🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
 <div align="center">
 	<br>
