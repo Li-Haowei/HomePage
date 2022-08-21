@@ -3,14 +3,15 @@
 		<img src="header.svg" width="800" height="400" alt="The Header">
 	</a>
 	<br>
-<a href="https://dev-haowei.pantheonsite.io/">
-		<img src="name.svg" width="800" height="400" alt="The Header" >
-	</a>
-	<p size='6'>(animation programmed in svg, since markdown file does not support CSS)</p>
+
 </div>
 </p>
 <h3 align="center" > I am currently a BU CS Student, but I will be graduated 2023🧑‍🎓</h3>
 <h3 align="center"> I always like to learn new things 📚</h3>
+<a href="https://dev-haowei.pantheonsite.io/">
+		<img src="name.svg" width="800" height="400" alt="The Header" >
+	</a>
+	<p size='6'>(animation programmed in svg, since markdown file does not support CSS)</p>
 <div align="center">
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200px" height="200px"/>
