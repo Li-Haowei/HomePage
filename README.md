@@ -18,8 +18,6 @@
 	<br>
 	<img src="https://raw.githubusercontent.com/Aniket965/Aniket965/master/pacman.svg?sanitize=true" width="200px" height="200px"/>
 	<br>
-	<img  align="right"  style = "height:400px; width: 400px;" src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200px" height="200px" />
-	<br>
 </div>
 <h3 align="center">This GitHub contains some open source projects that I have worked on</h3>
 <h3 align="center">If you want to know more about me: <a href = "https://dev-haowei.pantheonsite.io/">my personal website</a></h3>
