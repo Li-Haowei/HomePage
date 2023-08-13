@@ -6,7 +6,7 @@
 
 </div>
 </p>
-<h3 align="center" > I am a software developer specializing in full-stack development, but my personal hobby is designing and aesthetics</h3>
+<h3 align="center" > I am a software developer specializing in full-stack development,</br> but my personal hobby is designing and aesthetics</h3>
 <div align="center">
 <a href="https://dev-haowei.pantheonsite.io/">
 		<img src="name.svg" width="800" height="400" alt="The Header" >
